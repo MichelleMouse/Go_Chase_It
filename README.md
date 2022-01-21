@@ -1,5 +1,5 @@
 # Go_Chase_It
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) [![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) [![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)  [![CodeFactor](https://www.codefactor.io/repository/github/michellemouse/go_chase_it/badge)](https://www.codefactor.io/repository/github/michellemouse/go_chase_it)  
 
 Second project of Udacity's [Robotics Software Engineer Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209) program where I designed and built a mobile robot and house it on my world (from Gazebo_World repo).
 
